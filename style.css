@@ -78,3 +78,12 @@ h2 {
     from { opacity: 0;}
     to { opacity: 1;}
 }
+
+.bounceIn {
+    animation: bounceIn 0.2s;
+}
+
+@keyframes bounceIn {
+    from { font-size: 0}
+    to { font-size: 3em}
+}
