@@ -66,12 +66,29 @@ h2 {
     text-align: center;
 }
 
+.btn-contact {
+    background: #fff;
+    text-align: center;
+    margin-bottom: 1em;
+    padding: 1em;
+    border: 0.1em solid #fff;
+    border-radius: 2em;
+}
+
+.btn-contact .text {
+    color: #000;
+}
+
 .list > .item {
     text-align: center;
     margin-bottom: 1em;
     padding: 1em;
     border: 0.1em solid #fff;
     border-radius: 2em;
+}
+
+.footer {
+    justify-content: flex-end;
 }
 
 /* Animations */
