@@ -87,10 +87,6 @@ h2 {
     border-radius: 2em;
 }
 
-.footer {
-    justify-content: flex-end;
-}
-
 /* Animations */
 
 .fadeIn {
