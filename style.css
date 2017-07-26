@@ -54,7 +54,7 @@ h2 {
     font-size: 1.8em;
     font-family: 'Bree Serif', serif;
     animation: type 2s steps(16), blink 0.5s infinite alternate;
-    width: 15.4ch;
+    max-width: 15.4ch;
     overflow: hidden;
     white-space: nowrap;
     border-right: 3px solid #fff;
@@ -108,7 +108,7 @@ h2 {
 }
 
 @keyframes type {
-    from { width: 0}
+    from { max-width: 0}
 }
 
 
@@ -120,7 +120,7 @@ h2 {
 
 /* Sldieshow */
 
-.mySlides {
+.slides {
     display: none;
 }
 
