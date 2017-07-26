@@ -11,6 +11,7 @@
 
 
 html, body {
+    background-color: #764ba2;
     background-image: -webkit-linear-gradient(top left, #667eea 0%, #764ba2 100%);
     background-image: -moz-linear-gradient(top left, #667eea 0%, #764ba2 100%);
     background-image: -o-linear-gradient(top left, #667eea 0%, #764ba2 100%);
